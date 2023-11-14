@@ -1,5 +1,8 @@
 _repo: The-taste-of-honey-b-The-note-book-of-a-linguist_71882
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71882-h/images/cover.jpg
 creator:
   author:
     agent_name: Underwood, Edna Worthley
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32430
     wikipedia: https://en.wikipedia.org/wiki/Edna_W._Underwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71882#The-taste-of-honey-b-The-note-book-of-a-linguist
 gutenberg_issued: '2023-10-15'
 identifiers:
   gutenberg: '71882'
